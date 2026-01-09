@@ -1,0 +1,15 @@
+
+header{
+    background-color: white;
+    color: purple;
+    
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+img{
+    width: 400px;
+    height: auto;
+}
